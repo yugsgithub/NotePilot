@@ -9,6 +9,12 @@
 ![FAISS](https://img.shields.io/badge/RAG-FAISS-green)
 
 ---
+## 🎥 Demo
+🌐 **Live Demo:** https://notepilot-frontend.onrender.com
+
+Tap on the photo for live demo ↓
+[![Watch Full Demo](screenshots/home.png)](https://drive.google.com/file/d/1aJ7L8ZXCB9-gdJffFXeTwPKsu53sE-Pd/view?usp=drive_link)
+
 
 # 📖 About
 
