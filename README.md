@@ -423,3 +423,5 @@ This project demonstrates practical experience with:
 - AI-powered Educational Applications
 - REST API Development
 - Modern Responsive UI Design
+
+**Due to memory limitations on free cloud hosting, the full RAG backend is intended to be run locally. The complete source code and setup instructions are provided.**
