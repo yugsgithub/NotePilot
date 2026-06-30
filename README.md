@@ -317,7 +317,7 @@ Ask questions hands-free using speech recognition.
 
 ## Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/NotePilot-AI.git
+git clone https://github.com/yugsgithub/NotePilot-AI.git
 
 ---
 
