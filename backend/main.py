@@ -53,7 +53,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173"
-        "https://notepilot-backend-1loo.onrender.com/"
+        "https://notepilot-frontend.onrender.com"
     ],
     allow_credentials=False,
     allow_methods=["*"],
